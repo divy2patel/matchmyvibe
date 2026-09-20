@@ -1,0 +1,192 @@
+{
+  "groups": [
+    {
+      "id": "grp-cultural-dance",
+      "name": "Aatmoday Cultural & Dance Society",
+      "category": "Arts",
+      "description": "The heart of classical dance, folk performances, stage hosting, and festival celebrations at Aatmoday. We organize major campus cultural nights, choreograph group dance pieces, and train hosts for stage events.",
+      "tags": ["classical-dance", "cultural-events", "dance", "hosting", "stage-performance", "folk-dance"],
+      "meeting_time": "Every Tuesday & Thursday 6:30 PM",
+      "location": "Student Activity Center (SAC Hall A)",
+      "contact_person": "Zara Khan (Lead), @zara_cultural",
+      "contact_lead": "Zara Khan (Lead), @zara_cultural",
+      "target_audience": "Dancers, stage hosts, and cultural event enthusiasts of all levels"
+    },
+    {
+      "id": "grp-robotics",
+      "name": "Aatmoday Robotics",
+      "category": "Coding",
+      "description": "Building autonomous bots, drone systems, microcontrollers (Arduino/ESP32), and ROS-based software. We compete in national Robocon and hardware hackathons.",
+      "tags": ["robotics", "coding", "hardware", "arduino", "drones", "embedded-systems"],
+      "meeting_time": "Every Wednesday & Saturday 5:00 PM",
+      "location": "Robotics Lab (Engineering Block 3rd Floor)",
+      "contact_person": "Rohan Patel (Lead), @rohan_robotics",
+      "contact_lead": "Rohan Patel (Lead), @rohan_robotics",
+      "target_audience": "Coders, hardware geeks, and tech tinkers"
+    },
+    {
+      "id": "grp-nukkad",
+      "name": "Nukkad Natak",
+      "category": "Arts",
+      "description": "Street plays, social awareness performances, high-energy chants, and theatrical storytelling. We take social messages to campus courtyards and city squares.",
+      "tags": ["nukkad-natak", "street-play", "drama", "acting", "social-awareness", "theater"],
+      "meeting_time": "Every Monday & Friday 6:00 PM",
+      "location": "Amphitheater Steps & Campus Courtyard",
+      "contact_person": "Diya Kapoor (Convener), @diya_nukkad",
+      "contact_lead": "Diya Kapoor (Convener), @diya_nukkad",
+      "target_audience": "Passionate actors, voice artists, and performers"
+    },
+    {
+      "id": "grp-trekking",
+      "name": "Trekking Community",
+      "category": "Sports",
+      "description": "Weekend hikes, Pavagadh climbs, night treks, camping, and outdoor exploration. Designed for introverted nature lovers and adventure seekers alike.",
+      "tags": ["trekking", "hiking", "outdoors", "nature", "weekend-hikes", "camping"],
+      "meeting_time": "Meets every Thursday 8:00 PM for weekend planning",
+      "location": "Sports Complex Lawn & WhatsApp Group",
+      "contact_person": "Arjun Nair (Trek Lead), @arjun_treks",
+      "contact_lead": "Arjun Nair (Trek Lead), @arjun_treks",
+      "target_audience": "Hikers, nature enthusiasts, and outdoor lovers"
+    },
+    {
+      "id": "grp-unplugged",
+      "name": "Unplugged (Music Club)",
+      "category": "Music",
+      "description": "Acoustic guitar sessions, vocal harmonies, gentle jams under campus lights, and open-mic evenings. Perfect for introverted musicians and passionate singers.",
+      "tags": ["acoustic-guitar", "unplugged", "singing", "music", "gentle-jams", "vocals"],
+      "meeting_time": "Every Friday 7:00 PM",
+      "location": "Cultural Center Garden & Amphitheater",
+      "contact_person": "Kabir Trivedi (Head), @kabir_unplugged",
+      "contact_lead": "Kabir Trivedi (Head), @kabir_unplugged",
+      "target_audience": "Guitarists, singers, and acoustic music enthusiasts"
+    },
+    {
+      "id": "grp-adc",
+      "name": "Aatmoday Developers Club (ADC)",
+      "category": "Coding",
+      "description": "Full-stack development, competitive coding, machine learning, and hackathon sprints. Beginner mentorship tracks in Python, Web Dev, and AI.",
+      "tags": ["coding", "web-dev", "python", "hackathons", "ai", "programming"],
+      "meeting_time": "Every Thursday 6:00 PM",
+      "location": "SAC Room 204 & Discord",
+      "contact_person": "Aarav Shah (Lead), @aarav_adc",
+      "contact_lead": "Aarav Shah (Lead), @aarav_adc",
+      "target_audience": "Coders and software builders of all years"
+    },
+    {
+      "id": "grp-voluntourism",
+      "name": "Kartavya Voluntourism & Impact Drive",
+      "category": "Voluntourism",
+      "description": "Weekend teaching drives, community service, eco-tourism volunteering, and food relief. Combining travel with social responsibility.",
+      "tags": ["voluntourism", "social-work", "volunteering", "community-service", "teaching"],
+      "meeting_time": "Every Saturday 9:00 AM",
+      "location": "Community Center & Village Outreach",
+      "contact_person": "Ishita Verma (Lead), @ishita_voluntourism",
+      "contact_lead": "Ishita Verma (Lead), @ishita_voluntourism",
+      "target_audience": "Students looking to make a positive social impact"
+    },
+    {
+      "id": "grp-football",
+      "name": "Midnight Football League",
+      "category": "Sports",
+      "description": "Late-night turf football under floodlights. 5v5 and 7v7 casual and tournament matches every week.",
+      "tags": ["football", "futsal", "sports", "night-matches", "turf"],
+      "meeting_time": "Wednesdays & Saturdays 10:00 PM",
+      "location": "Campus Turf Ground",
+      "contact_person": "Rohan Mehta (Captain), @rohan_mfl",
+      "contact_lead": "Rohan Mehta (Captain), @rohan_mfl",
+      "target_audience": "Football players of all levels"
+    },
+    {
+      "id": "grp-fragzone",
+      "name": "FragZone Esports & Gaming Guild",
+      "category": "Gaming",
+      "description": "Competitive FIFA, Valorant, BGMI, and CS2 gaming squad. Scrims, LAN tournaments, and gaming watchparties.",
+      "tags": ["gaming", "esports", "valorant", "fifa", "bgmi", "late-night-coding"],
+      "meeting_time": "Daily online scrims at 9:00 PM",
+      "location": "Hostel Lounge & Discord Server",
+      "contact_person": "Vivaan Reddy (Captain), @vivaan_frag",
+      "contact_lead": "Vivaan Reddy (Captain), @vivaan_frag",
+      "target_audience": "Competitive and casual gamers"
+    }
+  ],
+  "events": [
+    {
+      "id": "evt-cultural-fest",
+      "name": "Annual Cultural Gala & Dance Showcase",
+      "group_id": "grp-cultural-dance",
+      "category": "Arts",
+      "description": "Grand campus evening featuring classical dance recitals, folk ensembles, and live stage hosting competitions.",
+      "tags": ["cultural-fest", "classical-dance", "hosting", "stage-performance", "arts"],
+      "event_date": "2026-10-12 18:00",
+      "location": "Main Auditorium",
+      "contact_person": "Zara Khan (Organizer), @zara_cultural",
+      "contact_lead": "Zara Khan (Organizer), @zara_cultural",
+      "target_audience": "All campus students and performers"
+    },
+    {
+      "id": "evt-robotics-hack",
+      "name": "RoboWars & Embedded Hackathon",
+      "group_id": "grp-robotics",
+      "category": "Coding",
+      "description": "24-hour hardware and robotics hackathon. Build autonomous maze-solving bots and smart IoT devices.",
+      "tags": ["robotics", "embedded-systems", "coding", "hardware-hackathon", "tech"],
+      "event_date": "2026-10-20 09:00",
+      "location": "Robotics Lab Complex",
+      "contact_person": "Rohan Patel (Host), @rohan_robotics",
+      "contact_lead": "Rohan Patel (Host), @rohan_robotics",
+      "target_audience": "Hardware and software coders"
+    },
+    {
+      "id": "evt-nukkad-fest",
+      "name": "Street Play Championship (Nukkad Spardha)",
+      "group_id": "grp-nukkad",
+      "category": "Arts",
+      "description": "Inter-college street play competition showcasing powerful social narratives through rhythm, chants, and acting.",
+      "tags": ["nukkad-natak", "street-play", "drama", "acting-competition", "arts"],
+      "event_date": "2026-10-08 16:00",
+      "location": "Amphitheater Lawn",
+      "contact_person": "Diya Kapoor (Organizer), @diya_nukkad",
+      "contact_lead": "Diya Kapoor (Organizer), @diya_nukkad",
+      "target_audience": "Drama crews and audience"
+    },
+    {
+      "id": "evt-unplugged-night",
+      "name": "Acoustic Unplugged Evening",
+      "group_id": "grp-unplugged",
+      "category": "Music",
+      "description": "Under-the-stars acoustic session featuring solo singers, acoustic guitar solos, and soft jamming.",
+      "tags": ["acoustic-guitar", "unplugged", "singing", "open-mic", "music"],
+      "event_date": "2026-09-30 19:30",
+      "location": "Open Air Amphitheater",
+      "contact_person": "Kabir Trivedi (Host), @kabir_unplugged",
+      "contact_lead": "Kabir Trivedi (Host), @kabir_unplugged",
+      "target_audience": "Music lovers, gentle singers, acoustic guitarists"
+    },
+    {
+      "id": "evt-weekend-trek",
+      "name": "Pavagadh Sunrise Trek",
+      "group_id": "grp-trekking",
+      "category": "Sports",
+      "description": "Early morning weekend hike up Pavagadh Hill with breakfast at the summit.",
+      "tags": ["trekking", "hiking", "outdoors", "weekend-hikes", "nature"],
+      "event_date": "2026-10-04 05:30",
+      "location": "Departure from Gate 1",
+      "contact_person": "Arjun Nair (Lead), @arjun_treks",
+      "contact_lead": "Arjun Nair (Lead), @arjun_treks",
+      "target_audience": "Nature lovers and trekkers"
+    },
+    {
+      "id": "evt-old-past-event",
+      "name": "Past Campus Orientation 2025",
+      "group_id": "grp-adc",
+      "category": "Coding",
+      "description": "Past orientation event (should be filtered out by date filter).",
+      "tags": ["past-event", "orientation"],
+      "event_date": "2025-01-10 10:00",
+      "location": "Old SAC Room",
+      "contact_person": "Admin",
+      "contact_lead": "Admin",
+      "target_audience": "Old students"
+    }
+  ]
+}
